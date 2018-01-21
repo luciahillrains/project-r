@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_leader_status" android:title="Show Leader Status" app:showAsAction="never"/>
+    <item android:id="@+id/action_see_advisors" android:title="See Advisors" app:showAsAction="never"/>
+    <item android:id="@+id/action_self_improvement" android:title="Self-Improvement" app:showAsAction="never"/>
+    <item android:id="@+id/action_read_news" android:title="Read News" app:showAsAction="never"/>
+    <item android:id="@+id/action_problems" android:title="See Problems" app:showAsAction="never" />
+    <item android:id="@+id/action_foreign_relationships" android:title="Foreign Relationships" app:showAsAction="never"/>
+    <item android:id="@+id/action_missions" android:title="Missions" app:showAsAction="never"/>
+</menu>
