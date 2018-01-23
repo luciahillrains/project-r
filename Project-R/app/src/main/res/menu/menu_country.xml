@@ -8,4 +8,7 @@
     <item android:id="@+id/action_problems" android:title="See Problems" app:showAsAction="never" />
     <item android:id="@+id/action_foreign_relationships" android:title="Foreign Relationships" app:showAsAction="never"/>
     <item android:id="@+id/action_missions" android:title="Missions" app:showAsAction="never"/>
+    <item android:id="@+id/action_knight_training" android:title="Knight Training" app:showAsAction="never"/>
+    <item android:id="@+id/action_cleric_training" android:title="Cleric Training" app:showAsAction="never"/>
+    <item android:id="@+id/action_technology" android:title="Technology" app:showAsAction="never"/>
 </menu>
