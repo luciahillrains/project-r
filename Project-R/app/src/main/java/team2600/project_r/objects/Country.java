@@ -25,7 +25,7 @@ public class Country {
 
         final Town secondTown = new Town();
         secondTown.setName("Port Lucy");
-        firstTown.setHealth(50);
+        secondTown.setHealth(50);
 
         List<Town> town = new ArrayList<Town>(){{
             add(firstTown);
@@ -66,5 +66,9 @@ public class Country {
 
     public void setTowns(List<Town> towns) {
         this.towns = towns;
+    }
+
+    public int getHealth() {
+        return 100;
     }
 }
